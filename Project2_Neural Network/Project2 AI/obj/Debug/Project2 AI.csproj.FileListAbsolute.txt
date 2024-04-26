@@ -1,0 +1,12 @@
+E:\Projects\Development\Visual Studio\UMFST\Project2 AI\Project2 AI\bin\Debug\Project2 AI.exe.config
+E:\Projects\Development\Visual Studio\UMFST\Project2 AI\Project2 AI\bin\Debug\Project2 AI.exe
+E:\Projects\Development\Visual Studio\UMFST\Project2 AI\Project2 AI\bin\Debug\Project2 AI.pdb
+E:\Projects\Development\Visual Studio\UMFST\Project2 AI\Project2 AI\obj\Debug\Project2 AI.csproj.AssemblyReference.cache
+E:\Projects\Development\Visual Studio\UMFST\Project2 AI\Project2 AI\obj\Debug\Project2_AI.Form1.resources
+E:\Projects\Development\Visual Studio\UMFST\Project2 AI\Project2 AI\obj\Debug\Project2_AI.InputDialog.resources
+E:\Projects\Development\Visual Studio\UMFST\Project2 AI\Project2 AI\obj\Debug\Project2_AI.Properties.Resources.resources
+E:\Projects\Development\Visual Studio\UMFST\Project2 AI\Project2 AI\obj\Debug\Project2 AI.csproj.GenerateResource.cache
+E:\Projects\Development\Visual Studio\UMFST\Project2 AI\Project2 AI\obj\Debug\Project2 AI.csproj.CoreCompileInputs.cache
+E:\Projects\Development\Visual Studio\UMFST\Project2 AI\Project2 AI\obj\Debug\Project2 AI.exe
+E:\Projects\Development\Visual Studio\UMFST\Project2 AI\Project2 AI\obj\Debug\Project2 AI.pdb
+E:\Projects\Development\Visual Studio\UMFST\Project2 AI\Project2 AI\obj\Debug\Project2_AI.HiddenLayerSettingsDialog.resources

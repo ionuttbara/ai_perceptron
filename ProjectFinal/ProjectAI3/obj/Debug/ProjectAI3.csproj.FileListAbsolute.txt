@@ -1,0 +1,10 @@
+E:\Projects\Development\Visual Studio\ProjectAI3\ProjectAI3\bin\Debug\ProjectAI3.exe.config
+E:\Projects\Development\Visual Studio\ProjectAI3\ProjectAI3\bin\Debug\ProjectAI3.exe
+E:\Projects\Development\Visual Studio\ProjectAI3\ProjectAI3\bin\Debug\ProjectAI3.pdb
+E:\Projects\Development\Visual Studio\ProjectAI3\ProjectAI3\obj\Debug\ProjectAI3.csproj.AssemblyReference.cache
+E:\Projects\Development\Visual Studio\ProjectAI3\ProjectAI3\obj\Debug\ProjectAI3.Form1.resources
+E:\Projects\Development\Visual Studio\ProjectAI3\ProjectAI3\obj\Debug\ProjectAI3.Properties.Resources.resources
+E:\Projects\Development\Visual Studio\ProjectAI3\ProjectAI3\obj\Debug\ProjectAI3.csproj.GenerateResource.cache
+E:\Projects\Development\Visual Studio\ProjectAI3\ProjectAI3\obj\Debug\ProjectAI3.csproj.CoreCompileInputs.cache
+E:\Projects\Development\Visual Studio\ProjectAI3\ProjectAI3\obj\Debug\ProjectAI3.exe
+E:\Projects\Development\Visual Studio\ProjectAI3\ProjectAI3\obj\Debug\ProjectAI3.pdb

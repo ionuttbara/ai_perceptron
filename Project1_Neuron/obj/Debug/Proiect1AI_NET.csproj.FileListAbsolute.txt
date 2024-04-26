@@ -1,0 +1,11 @@
+E:\Projects\Development\Visual Studio\UMFST\Proiect1AI_NET\bin\Debug\Proiect1AI_NET.exe.config
+E:\Projects\Development\Visual Studio\UMFST\Proiect1AI_NET\bin\Debug\Proiect1AI_NET.exe
+E:\Projects\Development\Visual Studio\UMFST\Proiect1AI_NET\bin\Debug\Proiect1AI_NET.pdb
+E:\Projects\Development\Visual Studio\UMFST\Proiect1AI_NET\obj\Debug\Proiect1AI_NET.csproj.AssemblyReference.cache
+E:\Projects\Development\Visual Studio\UMFST\Proiect1AI_NET\obj\Debug\Proiect1AI_NET.Form1.resources
+E:\Projects\Development\Visual Studio\UMFST\Proiect1AI_NET\obj\Debug\Proiect1AI_NET.Properties.Resources.resources
+E:\Projects\Development\Visual Studio\UMFST\Proiect1AI_NET\obj\Debug\Proiect1AI_NET.csproj.GenerateResource.cache
+E:\Projects\Development\Visual Studio\UMFST\Proiect1AI_NET\obj\Debug\Proiect1AI_NET.csproj.CoreCompileInputs.cache
+E:\Projects\Development\Visual Studio\UMFST\Proiect1AI_NET\obj\Debug\Proiect1AI_NET.exe
+E:\Projects\Development\Visual Studio\UMFST\Proiect1AI_NET\obj\Debug\Proiect1AI_NET.pdb
+E:\Projects\Development\Visual Studio\UMFST\Proiect1AI_NET\obj\Debug\Proiect1AI_NET.LabelTextBoxControl.resources
